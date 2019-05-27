@@ -1,0 +1,8 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+brew "gcc"
+brew "ripgrep"
+brew "awscli"
+brew "bash"
+brew "direnv"
+brew "tree"
